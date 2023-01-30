@@ -18,5 +18,5 @@ struct Animal: Codable, Identifiable {
     let fact: [String]
     
     static let allAnimals: [Animal] = Bundle.main.decode("animals.json")
-    static let example = allAnimals[2]
+    static let example = allAnimals[0]
 }
