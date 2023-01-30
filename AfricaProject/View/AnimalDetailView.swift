@@ -22,17 +22,20 @@ struct AnimalDetailView: View {
                 
                 //Title
                 
-                Text(animal.name.uppercased())
-                    .font(.largeTitle)
-                    .fontWeight(.heavy)
-                    .multilineTextAlignment(.center)
-                    .padding(.vertical, 8)
-                    .foregroundColor(.primary)
-                    .background(
-                        Color.accentColor
-                            .frame(height: 6)
-                            .offset(y: 24)
-                    )
+                GeometryReader { geometry in
+                    Text(animal.name.uppercased())
+                        .font(.largeTitle)
+                        .fontWeight(.heavy)
+                        .padding(.vertical, 8)
+                        .foregroundColor(.primary)
+                        .background(
+                            Color.accentColor
+                                .frame(height: 6)
+                                .offset(y: 24)
+                        )
+                        .frame(width: geometry.size.width * 1.0, height: geometry.size.height * 1.0, alignment: .center)
+                }
+                .padding()
                 
                 //Headline
                 Text(animal.headline)
@@ -50,12 +53,38 @@ struct AnimalDetailView: View {
                 .padding(.horizontal)
                 
                 //Facts
+                Group {
+                    HeadingView(headingImage: "questionmark.circle", headingText: "Did you know?")
+                    
+                    InsectFactView(animal: animal)
+                }
+                .padding(.horizontal)
                 
                 //Description
+                Group {
+                    HeadingView(headingImage: "info.circle", headingText: "All about \(animal.name)")
+                    
+                    Text(animal.description)
+                        .multilineTextAlignment(.leading)
+                        .layoutPriority(1)
+                }
+                .padding(.horizontal)
                 
                 //Map
+                Group {
+                    HeadingView(headingImage: "map", headingText: "National Parks")
+                    
+                    InsetMapView()
+                }
+                .padding(.horizontal)
                 
                 //Link
+                Group {
+                    HeadingView(headingImage: "books.vertical", headingText: "Learn more")
+                    
+                    ExternalWebLinkView(animal: animal)
+                }
+                .padding(.horizontal)
                 
             }//: Vstack
             .navigationBarTitle("Learn about \(animal.name)", displayMode: .inline)
