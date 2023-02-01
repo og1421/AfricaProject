@@ -47,6 +47,7 @@
 		85CB1A9B29883E150070758B /* InsectFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CB1A9A29883E150070758B /* InsectFactView.swift */; };
 		85CE763E298B053A0060CAD2 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE763D298B053A0060CAD2 /* VideoPlayerView.swift */; };
 		85CE7641298B099F0060CAD2 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE7640298B099F0060CAD2 /* VideoPlayerHelper.swift */; };
+		85CE7643298B13A70060CAD2 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE7642298B13A70060CAD2 /* LocationModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -110,6 +111,7 @@
 		85CB1A9A29883E150070758B /* InsectFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsectFactView.swift; sourceTree = "<group>"; };
 		85CE763D298B053A0060CAD2 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		85CE7640298B099F0060CAD2 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
+		85CE7642298B13A70060CAD2 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				8531871B2986F0B700B0BFD1 /* CoverImageModel.swift */,
 				853187222986F9AD00B0BFD1 /* AnimalModel.swift */,
 				852FDA4D29897EAA008B3D03 /* VideoModel.swift */,
+				85CE7642298B13A70060CAD2 /* LocationModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -442,6 +445,7 @@
 				854094F429885B1D00DF82F8 /* ExternalWebLinkView.swift in Sources */,
 				85C5CCAA2985D2DA00C60DAA /* GalleryView.swift in Sources */,
 				852FDA4E29897EAA008B3D03 /* VideoModel.swift in Sources */,
+				85CE7643298B13A70060CAD2 /* LocationModel.swift in Sources */,
 				85CB1A9B29883E150070758B /* InsectFactView.swift in Sources */,
 				85CB1A99298815DA0070758B /* InsetGalleryView.swift in Sources */,
 				852FDA5029897F75008B3D03 /* VideoListItemView.swift in Sources */,
