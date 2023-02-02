@@ -48,6 +48,7 @@
 		85CE763E298B053A0060CAD2 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE763D298B053A0060CAD2 /* VideoPlayerView.swift */; };
 		85CE7641298B099F0060CAD2 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE7640298B099F0060CAD2 /* VideoPlayerHelper.swift */; };
 		85CE7643298B13A70060CAD2 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE7642298B13A70060CAD2 /* LocationModel.swift */; };
+		85CE7645298C72FC0060CAD2 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CE7644298C72FC0060CAD2 /* MapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -112,6 +113,7 @@
 		85CE763D298B053A0060CAD2 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		85CE7640298B099F0060CAD2 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		85CE7642298B13A70060CAD2 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		85CE7644298C72FC0060CAD2 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 				854094F329885B1D00DF82F8 /* ExternalWebLinkView.swift */,
 				852FDA4F29897F75008B3D03 /* VideoListItemView.swift */,
 				85CE763D298B053A0060CAD2 /* VideoPlayerView.swift */,
+				85CE7644298C72FC0060CAD2 /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -438,6 +441,7 @@
 				85CB1A952987F1980070758B /* AnimalDetailView.swift in Sources */,
 				853187232986F9AD00B0BFD1 /* AnimalModel.swift in Sources */,
 				85C5CC5C2985C51500C60DAA /* AfricaProjectApp.swift in Sources */,
+				85CE7645298C72FC0060CAD2 /* MapAnnotationView.swift in Sources */,
 				85C5CCA62985D2A800C60DAA /* VideoListView.swift in Sources */,
 				85CE7641298B099F0060CAD2 /* VideoPlayerHelper.swift in Sources */,
 				854094F2298851C200DF82F8 /* InsetMapView.swift in Sources */,
