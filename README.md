@@ -6,10 +6,8 @@ The app consists in shows details of different animals that live in Africa, curi
 
 ## App Layout
 
-![Web 1](https://github.com/og1421/AfricaProject/blob/main/Images/landingPage.png)
-
 <img src="https://github.com/og1421/AfricaProject/blob/main/Images/landingPage.png"
-height="150" width="150">
+height="150" width="75">
 
 ![Web 2](https://github.com/og1421/AfricaProject/blob/main/Images/detailView.png)
 
