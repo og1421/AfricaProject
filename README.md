@@ -12,7 +12,7 @@ height="750" width="375">
 
 #### Detail View
 | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView.png"
-height="750" width="375"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView2.png"
-height="750" width="375"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView3.png"
-height="750" width="375"> | 
+height="375" width="187"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView2.png"
+height="375" width="187"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView3.png"
+height="375" width="187"> | 
 
