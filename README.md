@@ -7,6 +7,7 @@ The app consists in shows details of different animals that live in Africa, curi
 ## App Layout
 
 #### Landing view
+The landing view was created
 <img src="https://github.com/og1421/AfricaProject/blob/main/Images/landingPage.png"
 height="750" width="375">
 
@@ -16,3 +17,15 @@ height="375" width="187"> | <img src="https://github.com/og1421/AfricaProject/bl
 height="375" width="187"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView3.png"
 height="375" width="187"> | 
 
+### Video List and Player
+| <img src="https://github.com/og1421/AfricaProject/blob/main/Images/videoListView.png"
+height="750" width="375"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/videoPlayerView.png"
+height="750" width="375">
+
+### Map view
+<img src="https://github.com/og1421/AfricaProject/blob/main/Images/mapLocationView.png"
+height="750" width="375">
+
+### Gallery view
+<img src="https://github.com/og1421/AfricaProject/blob/main/Images/galleryView.png"
+height="750" width="375">
