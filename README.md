@@ -8,7 +8,7 @@ The app consists in shows details of different animals that live in Africa, curi
 
 ![Web 1](https://github.com/og1421/AfricaProject/blob/main/Images/landingPage.png)
 
-<imgsrc="[https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512](https://github.com/og1421/AfricaProject/blob/main/Images/landingPage.png)'
+<img src="https://github.com/og1421/AfricaProject/blob/main/Images/landingPage.png"
 height="150" width="150">
 
 ![Web 2](https://github.com/og1421/AfricaProject/blob/main/Images/detailView.png)
