@@ -18,13 +18,13 @@ height="375" width="187"> |
 
 ### Video List and Player
 | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/videoListView.png"
-height="750" width="375"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/videoPlayerView.png"
-height="750" width="375">
+height="500" width="250"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/videoPlayerView.png"
+height="500" width="250">
 
 ### Map view
 <img src="https://github.com/og1421/AfricaProject/blob/main/Images/mapLocationView.png"
-height="750" width="375">
+height="500" width="250">
 
 ### Gallery view
 <img src="https://github.com/og1421/AfricaProject/blob/main/Images/galleryView.png"
-height="750" width="375">
+height="500" width="250">
