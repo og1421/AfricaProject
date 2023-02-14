@@ -28,3 +28,8 @@ height="500" width="250">
 ### Gallery view
 <img src="https://github.com/og1421/AfricaProject/blob/main/Images/galleryView.png"
 height="500" width="250">
+
+# Technologies used
+- SwitUI 
+- MapKit
+- File Manager
