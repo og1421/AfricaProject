@@ -11,12 +11,8 @@ The app consists in shows details of different animals that live in Africa, curi
 height="750" width="375">
 
 #### Detail View
-<img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView.png"
-height="750" width="375">
-
-<img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView2.png"
-height="750" width="375">
-
-<img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView3.png"
-height="750" width="375">
+| <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView.png"
+height="750" width="375"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView2.png"
+height="750" width="375"> | <img src="https://github.com/og1421/AfricaProject/blob/main/Images/detailView3.png"
+height="750" width="375"> | 
 
